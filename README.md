@@ -98,3 +98,10 @@
   </script>
 </body>
 </html>
+<img src="https://i.imgur.com/OYbVOY2.jpg" alt="Ucapan Ulang Tahun" />
+
+<!-- Tombol Kirim WhatsApp -->
+<a class="btn" id="wanjit" href="#" target="_blank">Kirim Lewat WhatsApp</a>
+
+<!-- Tombol Download Gambar -->
+<a class="btn" href="https://i.imgur.com/OYbVOY2.jpg" download="ucapan-ulang-tahun.jpg">Download Gambar</a>
