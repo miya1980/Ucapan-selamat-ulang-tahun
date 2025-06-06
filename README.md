@@ -73,7 +73,7 @@
   <div class="card">
     <h1>🎉 Selamat Ulang Tahun!</h1>
     <p>Semoga panjang umur, sehat selalu, dan tercapai semua impianmu!</p>
-    <div class="name" id="namaPenerima">- Dari: Temanmu 🌟</div>
+    <div class="bagong" id="bagong banget">- Dari: Temanmu 🌟</div>
 
     <img src="https://i.imgur.com/OYbVOY2.jpg" alt="Ucapan Ulang Tahun" />
 
@@ -85,7 +85,7 @@
   </div>
 
   <script>
-    // Tangkap nama dari URL: ?nama=Alin
+    // Tangkap nama dari URL: ?nama=bagong
     const urlParams = new URLSearchParams(window.location.search);
     const nama = urlParams.get("nama");
 
